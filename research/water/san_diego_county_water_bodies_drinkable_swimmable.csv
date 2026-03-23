@@ -1,74 +1,74 @@
-location,waterbody,swimmability_1_10,drinkable_yes_no,activities,sources
-Scripps Ranch,Miramar Reservoir,1,Yes,swimming/wading/bathing/diving prohibited,https://www.sandiego.gov/sites/default/files/miramar-program-brochure.pdf
-San Carlos / La Mesa area,Murray Reservoir,1,Yes,swimming/wading/bathing/diving prohibited,https://www.sandiego.gov/sites/default/files/murray-program-brochure.pdf
-North County / San Dieguito area,Hodges Reservoir,1,Yes,swimming/wading/bathing/diving prohibited,https://www.sandiego.gov/sites/default/files/hodges-program-brochure.pdf
-South County,Lower Otay Reservoir,1,Yes,swimming/wading/bathing/diving prohibited,https://www.sandiego.gov/sites/default/files/otay-program-brochure.pdf
-South County,Upper Otay Reservoir,1,Yes,swimming/wading/bathing/diving prohibited,https://www.sandiego.gov/sites/default/files/otay-program-brochure.pdf
-East County,San Vicente Reservoir,1,Yes,swimming/wading/bathing/diving prohibited,https://www.sandiego.gov/sites/default/files/san-vicente-program-brochure.pdf
-North County,Sutherland Reservoir,1,Yes,swimming/wading/bathing/diving prohibited,https://www.sandiego.gov/sites/default/files/sutherland-program-brochure.pdf
-East County backcountry,Barrett Reservoir,1,Yes,swimming/wading/bathing/diving prohibited,https://www.sandiego.gov/sites/default/files/barrett-program-brochure.pdf
-San Onofre,Trestles - San Onofre State Beach,8,No,Surfing/Swimming/Hiking,https://www.parks.ca.gov/?page_id=647
-San Onofre,Church's - San Onofre Creek Outlet,4,No,Surfing/Beachcombing (caution: runoff),https://www.parks.ca.gov/?page_id=647
-Oceanside,Harbor Beach,7,No,Swimming/Surfing/Volleyball/Boating,https://visitoceanside.org/things-to-do/beaches/harbor-beach/
-Oceanside,San Luis Rey River outlet,3,No,Birdwatching/Walking (Avoid water contact),https://www.sanluisreywatershed.org/
-Oceanside,Oceanside Pier,7,No,Fishing/Surfing/Swimming,https://visitoceanside.org/things-to-do/beaches/oceanside-pier/
-Oceanside,Tyson Street,7,No,Swimming/Surfing/Picnicking,https://visitoceanside.org/things-to-do/beaches/
-Oceanside,Forster Street,7,No,Swimming/Bodyboarding,https://visitoceanside.org/things-to-do/beaches/
-Oceanside,"Buccaneer Beach, 500' N",6,No,Swimming/Wading,https://visitoceanside.org/things-to-do/beaches/buccaneer-beach/
-Oceanside,Cassidy Street,6,No,Swimming/Bodyboarding,https://visitoceanside.org/things-to-do/beaches/
-Oceanside,Saint Malo Beach,6,No,Swimming/Walking,https://visitoceanside.org/things-to-do/beaches/
-Oceanside,Buena Vista Lagoon,1,No,Birdwatching/Nature Center (No contact),https://wildlife.ca.gov/Lands/Places-to-Visit/Buena-Vista-Lagoon-ER
-Carlsbad,Tamarack Ave - Carlsbad State Beach,8,No,Swimming/Surfing/Kayaking,https://www.parks.ca.gov/?page_id=660
-Carlsbad,Cerezo Drive - Carlsbad State Beach,7,No,Swimming/Sunbathing,https://www.parks.ca.gov/?page_id=660
-Carlsbad,Palomar Airport Rd. - Carlsbad SB,7,No,Surfing/Swimming,https://www.parks.ca.gov/?page_id=660
-Carlsbad,Encina Creek - Carlsbad State Beach,4,No,Walking (high bacteria near outlet),https://www.sdbeachinfo.com/
-Carlsbad,Ponto Drive - Carlsbad State Beach,8,No,Swimming/Surfing/Camping,https://www.parks.ca.gov/?page_id=662
-Carlsbad,Poinsettia Lane - Carlsbad State Beach,7,No,Swimming/Surfing,https://www.parks.ca.gov/?page_id=660
-Carlsbad / Encinitas,Batiquitos Lagoon outlet,4,No,Walking/Birdwatching (Avoid water contact),https://www.batiquitoslagoon.org/visit/
-Encinitas,Moonlight Beach,9,No,Swimming/Surfing/Volleyball/Fire pits,https://www.encinitasca.gov/government/departments/parks-and-recreation/parks/moonlight-beach
-Encinitas,Swami's Beach,8,No,Surfing/Tidepooling,https://www.encinitasca.gov/government/departments/parks-and-recreation/parks/swamis-beach
-Cardiff,San Elijo State Park at ramp,7,No,Surfing/Camping/Swimming,https://www.parks.ca.gov/?page_id=664
-Cardiff,San Elijo State Park (main entrance),7,No,Surfing/Camping/Swimming,https://www.parks.ca.gov/?page_id=664
-Cardiff,San Elijo Lagoon outlet,3,No,Birdwatching/Hiking (Avoid water contact),https://thenaturecollective.org/san-elijo-lagoon/
-Cardiff,Las Olas (Georges) - Cardiff State Beach,7,No,Surfing/Swimming,https://www.parks.ca.gov/?page_id=664
-Cardiff,Seaside State Park - Cardiff State Beach,8,No,Surfing/Tidepooling,https://www.parks.ca.gov/?page_id=664
-Solana Beach,Tide Beach Park,7,No,Swimming/Tidepooling,https://www.cityofsolanabeach.org/facilities/facility/details/Tide-Beach-Park-52
-Solana Beach,Fletcher Cove,8,No,Swimming/Surfing,https://www.cityofsolanabeach.org/facilities/facility/details/Fletcher-Cove-Beach-Park-50
-Del Mar,San Dieguito River outlet,4,No,Walking/Dog access (Caution: bacteria),https://www.sdrvc.org/
-Del Mar,15th Street,9,No,Swimming/Surfing/Sunbathing,https://www.delmar.ca.us/government/departments/community-services/beach-information
-La Jolla,Torrey Pines at Los Penasquitos Lagoon,4,No,Hiking/Nature Viewing (No water contact),https://www.torreypine.org/activities/los-penasquitos-lagoon.html
-La Jolla,Blacks Beach,8,No,Surfing/Sunbathing (Clothing optional),https://www.sandiego.gov/lifeguards/beaches/blacks
-La Jolla,Scripps Pier,7,No,Swimming/Surfing,https://scripps.ucsd.edu/research/research-facilities/piers/scripps-pier
-La Jolla,El Paseo Grande - La Jolla Shores,9,No,Swimming/Kayaking/Snorkeling,https://www.sandiego.gov/lifeguards/beaches/shores
-La Jolla,Camino Del Oro - La Jolla Shores,9,No,Swimming/Kayaking/Snorkeling,https://www.sandiego.gov/lifeguards/beaches/shores
-La Jolla,Vallecitos - La Jolla Shores,9,No,Swimming/Kayaking/Snorkeling,https://www.sandiego.gov/lifeguards/beaches/shores
-La Jolla,Avenida De La Playa - La Jolla Shores,9,No,Kayak Launch/Swimming,https://www.sandiego.gov/lifeguards/beaches/shores
-La Jolla,La Jolla Cove,10,No,Snorkeling/Scuba/Swimming (Seal viewing),https://www.sandiego.gov/lifeguards/beaches/cove
-La Jolla,Children's Pool,3,No,Seal Viewing (Swimming discouraged due to seals),https://www.sandiego.gov/lifeguards/beaches/pool
-La Jolla,Nicholson Point,6,No,Tidepooling/Photography,https://www.sandiego.gov/lifeguards/beaches/nicholson
-La Jolla,Vista De La Playa,7,No,Swimming/Surfing,https://www.sandiego.gov/lifeguards/beaches/vista
-La Jolla,Bonair Windansea,8,No,Surfing/Swimming,https://www.sandiego.gov/lifeguards/beaches/windansea
-La Jolla,Playa Del Norte Windansea,8,No,Surfing/Swimming,https://www.sandiego.gov/lifeguards/beaches/windansea
-La Jolla,Palomar Windansea,8,No,Surfing/Swimming,https://www.sandiego.gov/lifeguards/beaches/windansea
-Pacific Beach,Tourmaline Surf Park,8,No,Surfing/Kiteboarding,https://www.sandiego.gov/lifeguards/beaches/tourmaline
-Pacific Beach,Law St.,8,No,Swimming/Surfing/Yoga,https://www.sandiego.gov/lifeguards/beaches/pb
-Mission Bay,De Anza Cove swim area,7,No,Swimming/Paddleboarding/Picnicking,https://www.sandiego.gov/park-and-recreation/parks/regional/missionbay
-Pacific Beach,Grand Avenue,8,No,Swimming/Surfing,https://www.sandiego.gov/lifeguards/beaches/pb
-Mission Bay,"North Cove, Vacation Isle",7,No,Swimming/Paddleboarding,https://www.sandiego.gov/park-and-recreation/parks/regional/missionbay
-Mission Beach,South Mission Beach Jetty,8,No,Surfing/Fishing/Volleyball,https://www.sandiego.gov/lifeguards/beaches/mb
-Ocean Beach,SD River Outlet (Dog Beach),4,No,Off-leash dogs/Walking (Bacteria risk),https://www.sandiego.gov/lifeguards/beaches/ob
-Ocean Beach,"Stub Jetty, south side",7,No,Swimming/Surfing,https://www.sandiego.gov/lifeguards/beaches/ob
-Ocean Beach,Ocean Beach Pier at Newport Avenue,7,No,Fishing/Surfing/Swimming,https://www.sandiego.gov/lifeguards/beaches/pier
-Ocean Beach,Ocean Beach Pier at Narragansett Avenue,7,No,Surfing/Walking,https://www.sandiego.gov/lifeguards/beaches/pier
-Sunset Cliffs,Bermuda Avenue,6,No,Surfing/Photography,https://www.sandiego.gov/lifeguards/beaches/sunsetcliffs
-Sunset Cliffs,Ladera Street,6,No,Surfing/Photography,https://www.sandiego.gov/lifeguards/beaches/sunsetcliffs
-San Diego Bay,Shelter Island,6,No,Fishing/Boating/Walking,https://www.portofsandiego.org/experiences/parks-attractions/shelter-island
-Coronado,North Beach,9,No,Off-leash dogs/Swimming/Surfing,https://www.coronado.ca.us/government/departments/parks-recreation/beaches
-Coronado,Avenida Lunar,8,No,Swimming/Surfing,https://www.coronado.ca.us/government/departments/parks-recreation/beaches
-Coronado,Crown Cove,8,No,Kayaking/Paddleboarding/Swimming,https://www.parks.ca.gov/?page_id=634
-Imperial Beach,Carnation Avenue,6,No,Swimming/Surfing,https://www.imperialbeachca.gov/recreation/beaches
-Imperial Beach,Imperial Beach Pier,6,No,Fishing/Surfing/Swimming,https://www.imperialbeachca.gov/government/departments/public-works-engineering/imperial-beach-pier
-Imperial Beach,Cortez Avenue,5,No,Surfing/Swimming (Caution: water quality),https://www.imperialbeachca.gov/recreation/beaches
-Imperial Beach,"Seacoast Drive, south",4,No,Walking (High sewage risk),https://www.sdbeachinfo.com/
-Imperial Beach,Tijuana Slough at Tijuana Rivermouth,1,No,Wildlife Reserve (Avoid water contact),https://trnerr.org/about/reserve-overview/
-Imperial Beach,Border Field State Park,3,No,Hiking/Sightseeing (Avoid water),https://www.parks.ca.gov/?page_id=640
+location,waterbody,swimmability_1_10,drinkable_yes_no,activities,sources,zipcode
+Scripps Ranch,Miramar Reservoir,1,Yes,swimming/wading/bathing/diving prohibited,https://www.sandiego.gov/sites/default/files/miramar-program-brochure.pdf,92131
+San Carlos / La Mesa area,Murray Reservoir,1,Yes,swimming/wading/bathing/diving prohibited,https://www.sandiego.gov/sites/default/files/murray-program-brochure.pdf,"92119, 91942"
+North County / San Dieguito area,Hodges Reservoir,1,Yes,swimming/wading/bathing/diving prohibited,https://www.sandiego.gov/sites/default/files/hodges-program-brochure.pdf,"92029, 92078"
+South County,Lower Otay Reservoir,1,Yes,swimming/wading/bathing/diving prohibited,https://www.sandiego.gov/sites/default/files/otay-program-brochure.pdf,91913
+South County,Upper Otay Reservoir,1,Yes,swimming/wading/bathing/diving prohibited,https://www.sandiego.gov/sites/default/files/otay-program-brochure.pdf,91913
+East County,San Vicente Reservoir,1,Yes,swimming/wading/bathing/diving prohibited,https://www.sandiego.gov/sites/default/files/san-vicente-program-brochure.pdf,92040
+North County,Sutherland Reservoir,1,Yes,swimming/wading/bathing/diving prohibited,https://www.sandiego.gov/sites/default/files/sutherland-program-brochure.pdf,92065
+East County backcountry,Barrett Reservoir,1,Yes,swimming/wading/bathing/diving prohibited,https://www.sandiego.gov/sites/default/files/barrett-program-brochure.pdf,91901
+San Onofre,Trestles - San Onofre State Beach,8,No,Surfing/Swimming/Hiking,https://www.parks.ca.gov/?page_id=647,92672
+San Onofre,Church's - San Onofre Creek Outlet,4,No,Surfing/Beachcombing (caution: runoff),https://www.parks.ca.gov/?page_id=647,92672
+Oceanside,Harbor Beach,7,No,Swimming/Surfing/Volleyball/Boating,https://visitoceanside.org/things-to-do/beaches/harbor-beach/,92054
+Oceanside,San Luis Rey River outlet,3,No,Birdwatching/Walking (Avoid water contact),https://www.sanluisreywatershed.org/,92058
+Oceanside,Oceanside Pier,7,No,Fishing/Surfing/Swimming,https://visitoceanside.org/things-to-do/beaches/oceanside-pier/,92054
+Oceanside,Tyson Street,7,No,Swimming/Surfing/Picnicking,https://visitoceanside.org/things-to-do/beaches/,92054
+Oceanside,Forster Street,7,No,Swimming/Bodyboarding,https://visitoceanside.org/things-to-do/beaches/,92054
+Oceanside,Buccaneer Beach, 500' N,6,No,Swimming/Wading,https://visitoceanside.org/things-to-do/beaches/buccaneer-beach/,92054
+Oceanside,Cassidy Street,6,No,Swimming/Bodyboarding,https://visitoceanside.org/things-to-do/beaches/,92054
+Oceanside,Saint Malo Beach,6,No,Swimming/Walking,https://visitoceanside.org/things-to-do/beaches/,92054
+Oceanside,Buena Vista Lagoon,1,No,Birdwatching/Nature Center (No contact),https://wildlife.ca.gov/Lands/Places-to-Visit/Buena-Vista-Lagoon-ER,"92008, 92054"
+Carlsbad,Tamarack Ave - Carlsbad State Beach,8,No,Swimming/Surfing/Kayaking,https://www.parks.ca.gov/?page_id=660,92008
+Carlsbad,Cerezo Drive - Carlsbad State Beach,7,No,Swimming/Sunbathing,https://www.parks.ca.gov/?page_id=660,92008
+Carlsbad,Palomar Airport Rd. - Carlsbad SB,7,No,Surfing/Swimming,https://www.parks.ca.gov/?page_id=660,92011
+Carlsbad,Encina Creek - Carlsbad State Beach,4,No,Walking (high bacteria near outlet),https://www.sdbeachinfo.com/,92008
+Carlsbad,Ponto Drive - Carlsbad State Beach,8,No,Swimming/Surfing/Camping,https://www.parks.ca.gov/?page_id=662,92011
+Carlsbad,Poinsettia Lane - Carlsbad State Beach,7,No,Swimming/Surfing,https://www.parks.ca.gov/?page_id=660,92008
+Carlsbad / Encinitas,Batiquitos Lagoon outlet,4,No,Walking/Birdwatching (Avoid water contact),https://www.batiquitoslagoon.org/visit/,"92011, 92024"
+Encinitas,Moonlight Beach,9,No,Swimming/Surfing/Volleyball/Fire pits,https://www.encinitasca.gov/government/departments/parks-and-recreation/parks/moonlight-beach,92024
+Encinitas,Swami's Beach,8,No,Surfing/Tidepooling,https://www.encinitasca.gov/government/departments/parks-and-recreation/parks/swamis-beach,92024
+Cardiff,San Elijo State Park at ramp,7,No,Surfing/Camping/Swimming,https://www.parks.ca.gov/?page_id=664,92007
+Cardiff,San Elijo State Park (main entrance),7,No,Surfing/Camping/Swimming,https://www.parks.ca.gov/?page_id=664,92007
+Cardiff,San Elijo Lagoon outlet,3,No,Birdwatching/Hiking (Avoid water contact),https://thenaturecollective.org/san-elijo-lagoon/,92007
+Cardiff,Las Olas (Georges) - Cardiff State Beach,7,No,Surfing/Swimming,https://www.parks.ca.gov/?page_id=664,92007
+Cardiff,Seaside State Park - Cardiff State Beach,8,No,Surfing/Tidepooling,https://www.parks.ca.gov/?page_id=664,92007
+Solana Beach,Tide Beach Park,7,No,Swimming/Tidepooling,https://www.cityofsolanabeach.org/facilities/facility/details/Tide-Beach-Park-52,92075
+Solana Beach,Fletcher Cove,8,No,Swimming/Surfing,https://www.cityofsolanabeach.org/facilities/facility/details/Fletcher-Cove-Beach-Park-50,92075
+Del Mar,San Dieguito River outlet,4,No,Walking/Dog access (Caution: bacteria),https://www.sdrvc.org/,92014
+Del Mar,15th Street,9,No,Swimming/Surfing/Sunbathing,https://www.delmar.ca.us/government/departments/community-services/beach-information,92014
+La Jolla,Torrey Pines at Los Penasquitos Lagoon,4,No,Hiking/Nature Viewing (No water contact),https://www.torreypine.org/activities/los-penasquitos-lagoon.html,92037
+La Jolla,Blacks Beach,8,No,Surfing/Sunbathing (Clothing optional),https://www.sandiego.gov/lifeguards/beaches/blacks,92037
+La Jolla,Scripps Pier,7,No,Swimming/Surfing,https://scripps.ucsd.edu/research/research-facilities/piers/scripps-pier,92037
+La Jolla,El Paseo Grande - La Jolla Shores,9,No,Swimming/Kayaking/Snorkeling,https://www.sandiego.gov/lifeguards/beaches/shores,92037
+La Jolla,Camino Del Oro - La Jolla Shores,9,No,Swimming/Kayaking/Snorkeling,https://www.sandiego.gov/lifeguards/beaches/shores,92037
+La Jolla,Vallecitos - La Jolla Shores,9,No,Swimming/Kayaking/Snorkeling,https://www.sandiego.gov/lifeguards/beaches/shores,92037
+La Jolla,Avenida De La Playa - La Jolla Shores,9,No,Kayak Launch/Swimming,https://www.sandiego.gov/lifeguards/beaches/shores,92037
+La Jolla,La Jolla Cove,10,No,Snorkeling/Scuba/Swimming (Seal viewing),https://www.sandiego.gov/lifeguards/beaches/cove,92037
+La Jolla,Children's Pool,3,No,Seal Viewing (Swimming discouraged due to seals),https://www.sandiego.gov/lifeguards/beaches/pool,92037
+La Jolla,Nicholson Point,6,No,Tidepooling/Photography,https://www.sandiego.gov/lifeguards/beaches/nicholson,92037
+La Jolla,Vista De La Playa,7,No,Swimming/Surfing,https://www.sandiego.gov/lifeguards/beaches/vista,92037
+La Jolla,Bonair Windansea,8,No,Surfing/Swimming,https://www.sandiego.gov/lifeguards/beaches/windansea,92037
+La Jolla,Playa Del Norte Windansea,8,No,Surfing/Swimming,https://www.sandiego.gov/lifeguards/beaches/windansea,92037
+La Jolla,Palomar Windansea,8,No,Surfing/Swimming,https://www.sandiego.gov/lifeguards/beaches/windansea,92037
+Pacific Beach,Tourmaline Surf Park,8,No,Surfing/Kiteboarding,https://www.sandiego.gov/lifeguards/beaches/tourmaline,92109
+Pacific Beach,Law St.,8,No,Swimming/Surfing/Yoga,https://www.sandiego.gov/lifeguards/beaches/pb,92109
+Mission Bay,De Anza Cove swim area,7,No,Swimming/Paddleboarding/Picnicking,https://www.sandiego.gov/park-and-recreation/parks/regional/missionbay,92109
+Pacific Beach,Grand Avenue,8,No,Swimming/Surfing,https://www.sandiego.gov/lifeguards/beaches/pb,92109
+Mission Bay,North Cove, Vacation Isle,7,No,Swimming/Paddleboarding,https://www.sandiego.gov/park-and-recreation/parks/regional/missionbay,92109
+Mission Beach,South Mission Beach Jetty,8,No,Surfing/Fishing/Volleyball,https://www.sandiego.gov/lifeguards/beaches/mb,92109
+Ocean Beach,SD River Outlet (Dog Beach),4,No,Off-leash dogs/Walking (Bacteria risk),https://www.sandiego.gov/lifeguards/beaches/ob,92107
+Ocean Beach,Stub Jetty, south side,7,No,Swimming/Surfing,https://www.sandiego.gov/lifeguards/beaches/ob,92107
+Ocean Beach,Ocean Beach Pier at Newport Avenue,7,No,Fishing/Surfing/Swimming,https://www.sandiego.gov/lifeguards/beaches/pier,92107
+Ocean Beach,Ocean Beach Pier at Narragansett Avenue,7,No,Surfing/Walking,https://www.sandiego.gov/lifeguards/beaches/pier,92107
+Sunset Cliffs,Bermuda Avenue,6,No,Surfing/Photography,https://www.sandiego.gov/lifeguards/beaches/sunsetcliffs,92107
+Sunset Cliffs,Ladera Street,6,No,Surfing/Photography,https://www.sandiego.gov/lifeguards/beaches/sunsetcliffs,92107
+San Diego Bay,Shelter Island,6,No,Fishing/Boating/Walking,https://www.portofsandiego.org/experiences/parks-attractions/shelter-island,92106
+Coronado,North Beach,9,No,Off-leash dogs/Swimming/Surfing,https://www.coronado.ca.us/government/departments/parks-recreation/beaches,92118
+Coronado,Avenida Lunar,8,No,Swimming/Surfing,https://www.coronado.ca.us/government/departments/parks-recreation/beaches,92118
+Coronado,Crown Cove,8,No,Kayaking/Paddleboarding/Swimming,https://www.parks.ca.gov/?page_id=634,92118
+Imperial Beach,Carnation Avenue,6,No,Swimming/Surfing,https://www.imperialbeachca.gov/recreation/beaches,91932
+Imperial Beach,Imperial Beach Pier,6,No,Fishing/Surfing/Swimming,https://www.imperialbeachca.gov/government/departments/public-works-engineering/imperial-beach-pier,91932
+Imperial Beach,Cortez Avenue,5,No,Surfing/Swimming (Caution: water quality),https://www.imperialbeachca.gov/recreation/beaches,91932
+Imperial Beach,Seacoast Drive, south,4,No,Walking (High sewage risk),https://www.sdbeachinfo.com/,91932
+Imperial Beach,Tijuana Slough at Tijuana Rivermouth,1,No,Wildlife Reserve (Avoid water contact),https://trnerr.org/about/reserve-overview/,91932
+Imperial Beach,Border Field State Park,3,No,Hiking/Sightseeing (Avoid water),https://www.parks.ca.gov/?page_id=640,92154
