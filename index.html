@@ -5,20 +5,30 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Cannonball - Landing Page</title>
   <style>
+    /* ========================
+          COLOR SYSTEM
+    ======================== */
     :root {
       --light-grey: #D9D9D9;
       --dark-grey: #474646;
+
       --dark-blue: #5543F6;
       --light-blue: #4489F7;
+
       --poor-bg: #E6A9A9;
       --poor-text: #7A5554;
+
       --fair-bg: #E4E6A9;
       --fair-text: #7A7954;
+
       --good-bg: #A9E6BD;
       --good-text: #547A60;
     }
 
-    * { box-sizing: border-box; margin: 0; padding: 0; }
+    * { box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
 
     body {
       font-family: Arial, sans-serif;
@@ -35,6 +45,10 @@
       flex-direction: column;
     }
 
+
+    /* ========================
+              HEADER
+    ======================== */
     .topbar {
       background: rgba(255, 255, 255, 0.96);
       padding: 16px 32px;
@@ -44,7 +58,9 @@
       box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
     }
 
-    .brand img { height: 42px; }
+    .brand img {
+      height: 42px;
+    }
 
     .login-btn {
       border: none;
@@ -57,6 +73,9 @@
       font-weight: 600;
     }
 
+    /* ========================
+                HERO
+    ======================== */
     .hero {
       width: 100%;
       max-width: 1100px;
@@ -96,6 +115,9 @@
       font-weight: 600;
     }
 
+    /* ========================
+            SEARCH CARD
+    ======================== */
     .search-card {
       max-width: 460px;
       margin: 0 auto;
@@ -151,6 +173,9 @@
       line-height: 1.5;
     }
 
+    /* ========================
+              FEATURES
+    ======================== */
     .feature-grid {
       margin-top: 34px;
       display: grid;
@@ -175,7 +200,10 @@
       margin-bottom: 14px;
     }
 
-    .feature-card h3 { margin-bottom: 10px; }
+    .feature-card h3 {
+      margin-bottom: 10px;
+    }
+
 
     footer {
       margin-top: auto;
@@ -186,13 +214,16 @@
     }
 
     @media (max-width: 900px) {
-      .feature-grid { grid-template-columns: 1fr; }
+      .feature-grid {
+        grid-template-columns: 1fr;
+      }
     }
   </style>
 </head>
 
 <body>
 <div class="page">
+  <!-- HEADER -->
   <header class="topbar">
     <div class="brand">
       <img src="Cannonball Assets/Cannonball Logo With Text.PNG" alt="Cannonball logo" />
@@ -208,6 +239,7 @@
     <h1>What’s In Your Water?</h1>
     <p class="subtitle">Access EPA water quality data for your local waterways!</p>
 
+    <!-- SEARCH -->
     <form class="search-card" id="zipcodeForm">
       <label for="searchTerm">Enter a zip code or location</label>
       <input id="searchTerm" placeholder="e.g., 92131 or La Jolla" />
@@ -219,30 +251,36 @@
       Search by zip code or location. Example zip codes: 91901, 92037, 92131. Example locations: La Jolla, Scripps Ranch, Oceanside.
     </p>
 
+    <!-- FEATURES -->
     <section class="feature-grid">
       <div class="feature-card">
         <img src="Cannonball Assets/Anchor Icon.png" class="feature-icon" alt="" />
         <h3>Filter and Sort</h3>
-        <p>Find waterways by condition, location, activities, and zip code.</p>
+        <p>Find waterways by condition, location, and activities.</p>
       </div>
 
       <div class="feature-card">
         <img src="Cannonball Assets/Anchor Icon.png" class="feature-icon" alt="" />
         <h3>Water Quality Data</h3>
-        <p>Access the CSV-backed local water body data directly from the web app.</p>
+        <p>Access EPA-backed data instantly.</p>
       </div>
 
       <div class="feature-card">
         <img src="Cannonball Assets/Anchor Icon.png" class="feature-icon" alt="" />
         <h3>Detailed Information</h3>
-        <p>See safety information, activity notes, and source links for each result.</p>
+        <p>See safety information and nearby facilities</p>
       </div>
     </section>
   </main>
 
+  <footer>Data provided by the EPA How’s My Waterway Database.</footer>
   <footer>Data provided by the EPA How’s My Waterway Database and local government sources</footer>
 </div>
 
+
+<!-- ========================
+     ZIPCODE SCRIPT
+======================== -->
 <script>
   const availableZipcodes = ["91901", "91913", "91932", "91942", "92007", "92008", "92011", "92014", "92024", "92029", "92037", "92040", "92054", "92058", "92065", "92075", "92078", "92106", "92107", "92109", "92118", "92119", "92131", "92154", "92672"];
   const searchTermInput = document.getElementById("searchTerm");

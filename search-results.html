@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- search bar -->
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Cannonball – Search Results</title>
@@ -209,6 +210,8 @@
 </div>
 
   <script>
+    //Hardcoded return list for search, with all relevant information being read from the included project CSV file.
+    // TO BE IMPLEMENTED: Either create a JS object from the CSV file which could be periodically updated to avoid hardcoding, or use API calls to the EPA database for live information.
     const waterBodies = [
       {
         "location": "Scripps Ranch",
