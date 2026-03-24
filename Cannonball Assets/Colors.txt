@@ -1,0 +1,10 @@
+Light Grey: D9D9D9
+Dark Grey: 474646
+Dark Blue: 5543F6
+Light Blue: 4489F7
+Poor Background: E6A9A9
+Poor Text: 7A5554
+Fair Background: E4E6A9
+Fair Text: 7A7954
+Good Background: A9E6BD
+Good Text: 547A60
