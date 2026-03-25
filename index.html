@@ -62,6 +62,21 @@
       height: 42px;
     }
 
+    .logo-btn {
+      display: inline-block;
+      border-radius: 10px;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    .logo-btn img{
+      height: 42px;
+      display: block;
+    }
+    .logo-btn:hover{
+      transform: scale(1.05);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+      cursor: pointer;
+    }
+
     .login-btn {
       border: none;
       background: linear-gradient(90deg, var(--light-blue), var(--dark-blue));
@@ -226,7 +241,9 @@
   <!-- HEADER -->
   <header class="topbar">
     <div class="brand">
+      <a href="index.html" class = "logo-btn">
       <img src="Cannonball Assets/Cannonball Logo With Text.PNG" alt="Cannonball logo" />
+      </a>
     </div>
     <button class="login-btn" type="button">Log In</button>
   </header>
